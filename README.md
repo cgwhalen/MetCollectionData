@@ -1,2 +1,2 @@
 # MetCollectionData
-Dataset created from freely-available images in the Met Collection.
+ Dataset created from OASC items in the Met Collection. Contains images and json data files for artifacts, stored by item ID.
